@@ -1,0 +1,22 @@
+img {
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 80px;
+    margin-top: 5px;
+  }
+  .header-about{
+      text-align: left;
+      font-family:'Garamond', serif;
+      padding: 20px;
+      font-size:x-large;
+  }
+  .header-about > h1{
+      font-family:'Garamond', serif;
+      padding-left: 700px;
+  } 
+  .header-about{
+      background: url("bg_abt.jfif");
+      height: 85vh;
+      width: 98.5;
+  }

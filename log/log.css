@@ -1,0 +1,12 @@
+.login-head > center > table {
+    margin-top: 200px;
+}
+.login-head{
+    background: url("./sign.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.login-head > center > table > tr > td {
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 

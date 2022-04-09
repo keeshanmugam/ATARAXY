@@ -1,0 +1,41 @@
+.Music_head {
+  background: url("bg.jpg");
+  /* height: 200vh;
+  width: 98.9vw; */
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+.Music_head > h2{
+    text-align: center;
+    font-family:'Garamond', serif;
+    font-size:xx-large;
+    margin-left: 40px;
+}
+.Music_head > a > h3{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:20px;
+    margin-left: 40px;
+
+}
+.Music_head > h1
+{
+    opacity: 50%;
+    font-size: 350%;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 350px;
+    height: 300px;
+    float: left;
+    margin: 35px;
+    margin-top: 1px;
+}
+.Music_head > table > tr > td > h3{
+    font-size: 30px;
+    color:palevioletred;
+}
+.Music_head > table > tr > td{
+    text-align: center;
+}

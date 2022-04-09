@@ -1,0 +1,15 @@
+/* .Aroma_head {
+  background: url("bg1.jpg");
+  height: 150vh;
+  width: 98.93vw;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+} */
+.Aroma_head > h1{
+    color:palevioletred;
+}
+img{
+    width:350px;
+    height:325px;
+}
